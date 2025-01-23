@@ -1,3 +1,3 @@
 # autogpt-tester
 
-Test webhook checks
+This repo is for testing AutoGPT Agents against for Github Integrations
